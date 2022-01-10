@@ -1,6 +1,6 @@
 # Seja bem vindo(a) ao meu GitHub, Sou o Erick Teixeira!
 😎 Futuro Front-End e Engenheiro de SoftWare
-💻 Estudando HTML,CSS e JS
+💻 Dev: HTML,CSS e JS, Python!
 <div align="center">
   <a href="https://github.com/ErickTeixeira777">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erickteixeira777&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
